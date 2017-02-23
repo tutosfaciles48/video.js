@@ -2,7 +2,7 @@
 
 # [Video.js - HTML5 Video Player][vjs]
 
-[![Build Status][travis-icon]][travis-link]
+[![Build Status](https://travis-ci.org/tutosfaciles48/video.js.svg?branch=master)](https://travis-ci.org/tutosfaciles48/video.js)
 [![Coverage Status][coveralls-icon]][coveralls-link]
 [![Slack Status][slack-icon]][slack-link]
 
